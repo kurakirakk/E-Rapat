@@ -383,16 +383,16 @@
                                         target="_blank">Creative Tim</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="https://www.creative-tim.com/presentation"
-                                        class="nav-link text-xs text-muted" target="_blank">About Us</a>
+                                    <a href=""
+                                        class="nav-link text-xs text-muted" target="_blank"></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="https://www.creative-tim.com/blog" class="nav-link text-xs text-muted"
+                                    <a href="" class="nav-link text-xs text-muted"
                                         target="_blank">Blog</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="https://www.creative-tim.com/license"
-                                        class="nav-link text-xs pe-0 text-muted" target="_blank">License</a>
+                                    <a href=""
+                                        class="nav-link text-xs pe-0 text-muted" target="_blank"></a>
                                 </li>
                             </ul>
                         </div>
@@ -408,8 +408,8 @@
         <div class="card shadow-lg ">
             <div class="card-header pb-0 pt-3 ">
                 <div class="float-start">
-                    <h5 class="mt-3 mb-0">Corporate UI Configurator</h5>
-                    <p>See our dashboard options.</p>
+                    <h5 class="mt-3 mb-0"></h5>
+                    <p></p>
                 </div>
                 <div class="float-end mt-4">
                     <button class="btn btn-link text-dark p-0 fixed-plugin-close-button">
