@@ -372,14 +372,14 @@
                                     document.write(new Date().getFullYear())
                                 </script>
                                 Corporate UI by
-                                <a href="https://www.creative-tim.com" class="text-secondary"
+                                <a href="" class="text-secondary"
                                     target="_blank">Creative Tim</a>.
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <ul class="nav nav-footer justify-content-center justify-content-lg-end">
                                 <li class="nav-item">
-                                    <a href="https://www.creative-tim.com" class="nav-link text-xs text-muted"
+                                    <a href="" class="nav-link text-xs text-muted"
                                         target="_blank">Creative Tim</a>
                                 </li>
                                 <li class="nav-item">
@@ -402,7 +402,7 @@
         </div>
     </div>
     <div class="fixed-plugin">
-        <a class="fixed-plugin-button text-dark position-fixed px-3 py-2">
+       
             <i class="fa fa-cog py-2"></i>
         </a>
         <div class="card shadow-lg ">

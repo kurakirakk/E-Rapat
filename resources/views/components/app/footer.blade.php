@@ -7,7 +7,7 @@
             &copy;
             <script>document.write(new Date().getFullYear())</script>
           
-            <a href="https://www.creative-tim.com" class="text-white fw-bold" target="_blank">Tim E-Gov DISKOMINFO Kabupaten Badung</a> 
+            <a href="" class="text-white fw-bold" target="_blank">Tim E-Gov DISKOMINFO Kabupaten Badung</a> 
            
           </p>
         </div>
